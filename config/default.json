@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://lschanov:kopli@cluster0.mdeuf.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "mern by lschanov",
+  "baseUrl": "http://localhost:5000"
+}
